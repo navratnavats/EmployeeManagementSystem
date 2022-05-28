@@ -14,4 +14,4 @@ Requirement:-
 Setting up database
 1) Create a schema or table of your choice recommened is to use the same name as used in project.
 2) application.properties contain some information regarding URL, Username, Password either update those aacordingly or use the same.
-3) Run SpringBootProjectWithThymeleafApplication Class
+3) Run SpringBootProjectWithThymeleafApplication Class.
