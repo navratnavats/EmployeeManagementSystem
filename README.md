@@ -1,10 +1,10 @@
 # EmployeeManagementSystem
 
-This is simple Spring Boot Project integrated with Thymeleaf which demonstrate these properties:-
-1)It's an Employee Management System
-2)User can perfrom all the CRUD operations on employee
-3)Employee are sorted in ASC order by there last name.
-4)CRUD opeations are reflected in DB
+This is a simple Spring Boot Project integrated with Thymeleaf which demonstrates these properties:- 
+1)It's an Employee Management System.
+2)User can perform all the CRUD operations on employees.
+3) Employees are sorted in ASC order by their last name. 
+4)CRUD operations are reflected in DB
 
 Requirement:-
 1)MySQL
